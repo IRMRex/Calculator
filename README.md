@@ -1,2 +1,1 @@
-# Calculator
-Calculator version 1.0
+This calculator is built in python and requirs sys, math, random.
